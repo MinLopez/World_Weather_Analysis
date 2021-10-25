@@ -11,13 +11,13 @@ Using similar codes as used in the module, I created perferred cities based on t
 
 ### Creating Itinerary
 
-![Vacation_Itinerary/WeatherPy_vacation_map.png](Vacation_Itinerary/WeatherPy_vacation_map.png])
+![Vacation_Itinerary/WeatherPy_vacation_map.png](Vacation_Itinerary/WeatherPy_vacation_map.png)
 
 I learned a new skill of adding routes with multiple waypoints. This was done using similar skills from before, but using multiple stops in multiple cities. I had to create start, stops, and end points in a dataframe and pull the latitude and longitude. Then I ploted the layer over for the route. I also had to configure the map to be more zoomed in on the area of interest. I chose Brazil as my area of interest and chose the driving method.
 
-![Vacation_Itinerary/WeatherPy_travel_map.png](Vacation_Itinerary/WeatherPy_travel_map.png])
+![Vacation_Itinerary/WeatherPy_travel_map.png](Vacation_Itinerary/WeatherPy_travel_map.png)
 From the data frame above, I reused code and changed it to have the hotel markers show instead of the route.
-
+![Vacation_Itinerary/WeatherPy_travel_map_markers.png](Vacation_Itinerary/WeatherPy_travel_map_markers.png)
 
 ## Summary
 I was able to focus on four cities in Brazil near each other an create a route that went to all four and then returned to the first city by the mode of driving.
